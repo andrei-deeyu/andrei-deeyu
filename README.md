@@ -1,16 +1,53 @@
-### Hi there 👋
+# NPM modules
+* photo resizing & resampling - sharp.js
+* MongoDB object modeling @ __mongoose.js__
+* Email SMPT - @ __node-mailer__
+* cryptography - bcrypt.js
+* JWT - encoded tokens, signatures
+* input sanitization - joi
+* node-fetch
 
-<!--
-**andrei-deeyu/andrei-deeyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Protocols
+* websockets @ __socket.io__
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# APIs
+* Google Maps API @ __googlemaps/js-api-loader__
+* Auth0 @ __auth0-spa-js__
+* AWS S3 @ __aws-sdk-s3__
+* Firebase Cloud @ __firebase__
+* Stripe - payment webhooks for subscription assignment 
+* MailGun
+* Heroku
+* Namecheap - DNS connection, domains
+* Github + GIT
+* Atlas MongoDB - cloud DB hosting
+* Google Analytics
+* Google Adwords
+
+
+
+# Others
+* CSS Preprocessors - SCSS
+* bootstrap
+* volleyball.js
+* cors
+* Auth0 Rules for email verification middleware
+* methodoverride - route methods
+* input reactivity - vue watchers
+* metadata.js
+* infinite scrolling with triggers for simple CRUD ops
+* music players, personality test, other lost stuff
+* lexicocompare chat rooms 
+
+
+
+# Tools 
+* Adobe Suite
+* Postman
+* Visual Studio Code
+* Robo 3T - MongoDB GUI
+
+
+
+
