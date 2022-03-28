@@ -6,6 +6,7 @@
 * JWT - encoded tokens, signatures
 * input sanitization - joi
 * node-fetch
+* passport.js
 
 
 # Protocols
