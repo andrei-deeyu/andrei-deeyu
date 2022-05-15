@@ -37,7 +37,7 @@
 * input reactivity - vue watchers __(sunase foarte profit reactivity)__
 * metadata.js __(ca sa aduc in subiect marketing, google adwords, not really seo)__
 * infinite scrolling with triggers for simple CRUD ops __(insta be like)__
-* music players, personality test, other lost stuff __(OG)__
+* music players, personality test, other lost stuff basic shits __(OG)__
 * lexicocompare chat rooms (__chat app, discord bots :)), things like that)__
 
 
