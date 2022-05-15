@@ -16,7 +16,7 @@
 * Auth0 @ __auth0-spa-js__
 * AWS S3 @ __aws-sdk-s3__
 * Firebase Cloud @ __firebase__
-* Stripe - payment webhooks for auto subscription assignment 
+* Stripe - __payment webhooks for auto subscription assignment__ 
 * MailGun
 * Heroku
 * Namecheap - DNS connection, domains
@@ -34,7 +34,7 @@
 * cors
 * Auth0 Rules for email verification middleware
 * methodoverride - route methods
-* input reactivity - vue watchers __(sunase foarte profit reactivity)__
+* input reactivity - vue watchers __(sunase foarte profi "reactivity")__
 * metadata.js __(ca sa aduc in subiect marketing, google adwords, not really seo)__
 * infinite scrolling with triggers for simple CRUD ops __(insta be like)__
 * music players, personality test, other lost stuff basic shits __(OG)__
