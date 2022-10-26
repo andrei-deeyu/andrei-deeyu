@@ -1,3 +1,11 @@
+# [4truckLoad-client](https://github.com/andrei-deeyu/4truckLoad-client) 
+# [4truckLoad-server](https://github.com/andrei-deeyu/4truckLoad-server)
+# [4truckLoad-subscription](https://github.com/andrei-deeyu/4truckLoad-subscription)
+* Developed in Vue.JS to enable the fast creation of a single-page application
+* Connected to a REST API built with Node.JS to store and retrieve data from a MongoDB database.
+* Authentication through PKCE installations (Auth0).
+* Deployed to Firebase for it's fast integration, auto deployment, easy globally scaling capabilities and "Pay as you go" plan to reduce costs
+
 # NPM modules
 * photo resizing & resampling - __sharp.js__
 * MongoDB object modeling @ __mongoose.js__
