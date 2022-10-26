@@ -34,11 +34,10 @@
 * cors
 * Auth0 Rules for email verification middleware
 * methodoverride - route methods
-* input reactivity - vue watchers __(sunase foarte profi "reactivity")__
-* metadata.js __(ca sa aduc in subiect marketing, google adwords, not really seo)__
-* infinite scrolling with triggers for simple CRUD ops __(insta be like)__
-* music players, personality test, other lost stuff basic shits __(OG)__
-* lexicocompare chat rooms (__chat app, discord bots :)), things like that)__
+* input reactivity - vue watchers
+* metadata.js __(for marketing purposes, google adwords)__
+* infinite scrolling with triggers for simple CRUD ops
+* lexicocomparing socket.id chat room id's
 
 
 
