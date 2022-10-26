@@ -1,6 +1,4 @@
-# [4truckLoad-client](https://github.com/andrei-deeyu/4truckLoad-client) 
-# [4truckLoad-server](https://github.com/andrei-deeyu/4truckLoad-server)
-# [4truckLoad-subscription](https://github.com/andrei-deeyu/4truckLoad-subscription)
+## ** [client](https://github.com/andrei-deeyu/4truckLoad-client) ** [server](https://github.com/andrei-deeyu/4truckLoad-server) ** [subscription](https://github.com/andrei-deeyu/4truckLoad-subscription) **
 * Developed in Vue.JS to enable the fast creation of a single-page application
 * Connected to a REST API built with Node.JS to store and retrieve data from a MongoDB database.
 * Authentication through PKCE installations (Auth0).
