@@ -1,12 +1,24 @@
-# [Angular Exchange App](https://github.com/andrei-deeyu/simple-angular-app)
-# 4truckLoad - [client](https://github.com/andrei-deeyu/4truckLoad-client) - [Core Server](https://github.com/andrei-deeyu/4truckLoad-server) - [payment server](https://github.com/andrei-deeyu/4truckLoad-subscription) 
-* Developed in Vue.JS to enable the fast creation of a single-page application
+## `Angular` Freight Exchange App  - [client](https://github.com/andrei-deeyu/simple-angular-app) - [server](https://github.com/andrei-deeyu/simple-express-app)
+* Developed a modular, single-page web application in Angular that incorporated responsive design principles
+* Integrated an authentication system using OAuth 2.0 (Auth0)
+* Reduced development time using CSS frameworks (Bootstrap)
+* Utilized a reactive state management framework for managing a global state
+across the entire application (NgRx)
+* Implemented streaming pipelines to capture and process event-driven responses
+in real-time using websockets.
+
+## `Vue.js` Freight Exchange App - [client](https://github.com/andrei-deeyu/4truckLoad-client) - [core server](https://github.com/andrei-deeyu/4truckLoad-server) - [payment server](https://github.com/andrei-deeyu/4truckLoad-subscription) 
+* Developed REST APIs using Node.JS and Express.JS that connected the web
+application with 3rd party services such as Atlas MongoDB & Google Maps.
+* Implemented an authentication system through PKCE installations (Auth0)
+* Integrated Stripe for a payment gateway into the website
+* Incorporated Google Analytics to track usage and performance metrics
 * Marketed the SaaS app through Google Ads, achieving campaigns with a cost-per-lead of 
-* Deployed to Firebase, Heroku
-* Connected to a REST API built with Node.JS to store and retrieve data from a MongoDB database.
-* Authentication through PKCE installations (Auth0).
+* Configured and deployed to cloud services (Firebase, Heroku)
+* Wrote a software requirement specification document to communicate
+software expectations
  
-# NPM modules
+### NPM modules
 * photo resizing & resampling - __sharp.js__
 * MongoDB object modeling @ __mongoose.js__
 * Email SMTP - @ __node-mailer__
@@ -16,10 +28,10 @@
 * Auth - __auth0.js__ , __passport.js__
 
 
-# Protocols
+### Protocols
 * websockets @ __socket.io__, __ws.js__, __rxjs/websocket__
 
-# Third parties, etc
+### Third parties, etc
 * Google Maps API @ __googlemaps/js-api-loader__
 * Auth0 @ __auth0-spa-js__
 * AWS S3 @ __aws-sdk-s3__
@@ -28,14 +40,14 @@
 * MailGun
 * Heroku
 * Namecheap - DNS connection, domains
-* Github + GIT
+* GitHub + GIT
 * Atlas MongoDB - cloud DB hosting
 * Google Analytics
 * Google Adwords
 
 
 
-# Others
+### Other
 * CSS Preprocessors - SCSS
 * bootstrap
 * volleyball.js
@@ -49,7 +61,7 @@
 
 
 
-# Tools 
+### Tools 
 * Adobe Suite
 * Postman
 * Visual Studio Code
